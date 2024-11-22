@@ -1,11 +1,10 @@
-pandoc: 2.7.3
-pkgdown: 1.6.1
+pandoc: 3.1.11
+pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   htmltools: htmltools.html
   tagQuery: tagQuery.html
-last_built: 2021-06-30T07:53Z
+last_built: 2024-11-22T13:08Z
 urls:
-  reference: https://rstudio.github.io/htmltools//reference
-  article: https://rstudio.github.io/htmltools//articles
-
+  reference: https://rstudio.github.io/htmltools/reference
+  article: https://rstudio.github.io/htmltools/articles
